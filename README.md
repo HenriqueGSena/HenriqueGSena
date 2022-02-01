@@ -7,7 +7,7 @@
  
  - 💬 Ask me about **Java, Spring Boot, PostgreSQl**
 
-<br><br>
+<br>
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
@@ -25,25 +25,26 @@
 <br><br>
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 
+<br>
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=vision-friendly-dark" alt="Henrique Sena stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=vision-friendly-dark" alt="Henrique Sena most languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 👨🏽 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Henrique_sena26" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/Henrique.sena23" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=HenriqueGSena&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Henrique_sena26&layout=wide&show_reply=off&show_retweet=off" />
