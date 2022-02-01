@@ -32,8 +32,7 @@
 </p>
 
 <br>
-
-## 👨🏽 &nbsp;Social Links
+<h2 align="center">📫 &nbsp;Social Links</h2>
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/Henrique_sena26" target="_blank">
