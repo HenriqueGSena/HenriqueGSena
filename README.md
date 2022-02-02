@@ -27,8 +27,8 @@
 
 <br>
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=vision-friendly-dark" alt="Henrique Sena stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=vision-friendly-dark" alt="Henrique Sena most languages"/>
+<img width="525em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=vision-friendly-dark" alt="Henrique Sena stats"/>
+<img width="482em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=vision-friendly-dark" alt="Henrique Sena most languages"/>
 </p>
 
 <br>
