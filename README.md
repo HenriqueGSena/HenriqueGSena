@@ -29,9 +29,9 @@
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
 
 <br>
-<p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=vision-friendly-dark" alt="Henrique Sena stats"/>
-<img width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=vision-friendly-dark" alt="Henrique Sena most languages"/>
+<p align="center">
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=tokyonight" alt="Henrique Sena stats"/>
+<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=tokyonight" alt="Henrique Sena most languages"/>
 </p>
 
 <br>
