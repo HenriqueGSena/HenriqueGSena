@@ -11,7 +11,7 @@
 
 <h2 align="center">🛠 &nbsp;Tech Stack</h2>
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
