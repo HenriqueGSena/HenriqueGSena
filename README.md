@@ -5,7 +5,7 @@
 
  - 👨‍💻 I’m currently working at [ OWSE ](https://www.owse.com.br/)
  
- - 💬 Ask me about **Java, Spring Boot, PostgreSQl**
+ - 💬 Ask me about **Java, Spring Boot, Mysql**
 
 <br>
 
