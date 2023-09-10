@@ -5,7 +5,7 @@
 
  - 👨‍💻 I’m currently working at [ OWSE ](https://www.owse.com.br/)
  
- - 💬 Ask me about **Java, Spring Boot, Mysql**
+ - 💬 Ask me about **Java, Spring Boot, Mysql...**
 
 <br>
 
@@ -14,16 +14,18 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Angularjs](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angularjs)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitKraken](https://img.shields.io/badge/-Gitkraken-05122A?style=flat&logo=gitkraken)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy)&nbsp;
+![Liquibase](https://img.shields.io/badge/-Liquibase-05122A?style=flat&logo=liquibase)&nbsp;
 
 <br><br>
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
