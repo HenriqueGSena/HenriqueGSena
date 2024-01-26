@@ -2,10 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HenriqueGSena&color=blue" alt="Profile views" /> </p>
  
  - 🔥 Full-Stack developer focused on problem solving
-
- - 👨‍💻 I’m currently working at [ OWSE ](https://www.owse.com.br/)
  
- - 💬 Ask me about **Java, Spring Boot, Mysql...**
+ - 💬 Ask me about **Java, Spring Boot, Oracle...**
 
 <br>
 
