@@ -13,8 +13,6 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -22,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Angularjs](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angularjs)&nbsp;
+![Angularjs](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy)&nbsp;
@@ -40,15 +38,15 @@
 <br>
 <h2 align="center">📫 &nbsp;Social Links</h2>
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/Henrique_sena26" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<div>
+ 
+ <a href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+
 <a href="https://www.instagram.com/Henrique.sena23" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Henrique Sena-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" />
 </a>
-</p>
+
+</div>
 
