@@ -23,13 +23,18 @@
  <div>
   <h2 align="center">🛠 &nbsp;Skills</h2>
  </div>
- <br>
+
+<h4 align="center">Aplicações e Dados</h4>
+<br>
  <div align="center">
     <a href="#" title="Spring">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
     </a>
     <a href="#" title="Java">
       <img src="https://img.shields.io/badge/Java-D83B01?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    </a>
+    <a href="#" title="Kubernetes">
+     <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     </a>
     <a href="#" title="Oracle">
      <img src="https://img.shields.io/badge/Oracle-E6522C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -71,29 +76,60 @@
      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJs"/>
     </a>
     <a href="#" title="AngularJs">
-     <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJs"/>
+     <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit" alt="AngularJs"/>
     </a>
+ </div>
+
+ <h4 align="center">Ferramentas de Testes</h4>
+ <br>
+ <div>
+  <a href="#" title="Postman">
+   <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=black" alt="Postman"/>
+  </a>
  </div>
 </div>
 
-<br><br>
-<h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
+<h4 align="center">Ferramentas de desenvolvimento</h4>
+ <br>
+ <div>
+  <a href="#" title="Intellij">
+   <img src="https://img.shields.io/badge/Intellij-FFFFFF?style=for-the-badge&logo=jetbrains&logoColor=black" alt="Intellij"/>
+  </a>
+  <a href="#" title="Vscode">
+   <img src="https://img.shields.io/badge/Vscode-017AD7?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Vscode"/>
+  </a>
+  <a href="#" title="Vim">
+   <img src="https://img.shields.io/badge/Neovim-009639?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+  </a>
+ </div>
 
-<br>
-<p align="center">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&show_icons=true&theme=tokyonight" alt="Henrique Sena stats"/>
-<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=tokyonight" alt="Henrique Sena most languages"/>
-</p>
+ <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
+ <br>
+ <div align="center">
+  <a href="https://github.com/HenriqueGSena" title="Perfil Sena">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&theme=dracula&show_icons=true" />
+  </a>
+  <a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=dracula" alt="Henrique Sena most languages" />
+  </a>
+ </div>
 
-<br>
-<h2 align="center">📫 &nbsp;Social Links</h2>
+ <h2 align="center">📫 &nbsp;Social Links</h2>
+ <br>
+ <div>
+  <a href="https://www.linkedin.com/in/carloshenrique26" target="_blank" title="Linkdin">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/Henrique.sena23" target="_blank" title="Instagram">
+   <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red">
+  </a>
+ </div>
+</div>
+
+
+
 
 <div>
- 
- <a href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
 <a href="https://www.instagram.com/Henrique.sena23" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" />
 </a>
