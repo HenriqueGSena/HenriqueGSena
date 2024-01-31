@@ -1,28 +1,80 @@
-<h1 align="center">Hi, I'm Henrique Sena</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HenriqueGSena&color=blue" alt="Profile views" /> </p>
- 
- - 🔥 Full-Stack developer focused on problem solving
- 
- - 💬 Ask me about **Java, Spring Boot, Oracle...**
+<div>
+ <div align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+ </div>
 
-<br>
+ <div align="center">
+  <h1>Hi, I'm Henrique Sena</h1>
+ </div>
 
-<h2 align="center">🛠 &nbsp;Tech Stack</h2>
+ <div>
+  <br>
+  <p>
+   - 🔥 Full-Stack developer focused on problem solving
+  </p>
+  <p>
+   - 🎓 Studying software engineering at Puc Minas
+  </p>
+  <p>
+   - 💬 Ask me about **Java, Spring Boot, Oracle...**
+  </p>
+ </div>
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=oracle)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Angularjs](https://img.shields.io/badge/-Angularjs-05122A?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Groovy](https://img.shields.io/badge/-Groovy-05122A?style=flat&logo=groovy)&nbsp;
-![Liquibase](https://img.shields.io/badge/-Liquibase-05122A?style=flat&logo=liquibase)&nbsp;
+ <div>
+  <h2 align="center">🛠 &nbsp;Skills</h2>
+ </div>
+ <br>
+ <div align="center">
+    <a href="#" title="Spring">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+    </a>
+    <a href="#" title="Java">
+      <img src="https://img.shields.io/badge/Java-D83B01?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    </a>
+    <a href="#" title="Oracle">
+     <img src="https://img.shields.io/badge/Oracle-E6522C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+    </a>
+    <a href="#" title="Docker">
+     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="#" title="Liquibase">
+     <img src="https://img.shields.io/badge/Liquibase-D33833?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase"/>
+    </a>
+    <a href="#" title="ActiveMQ">
+     <img src="https://img.shields.io/badge/ActiveMQ-EA2046?style=for-the-badge&logo=activemq&logoColor=white" alt="ActiveMQ"/>
+    </a>
+    <a href="#" title="Groovy">
+     <img src="https://img.shields.io/badge/Groovy-666666?style=for-the-badge&logo=groovy&logoColor=white" alt="Groovy"/>
+    </a>
+    <a href="#" title="Git">
+     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </a>
+    <a href="#" title="NodeJs">
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/>
+    </a>
+    <a href="#" title="Javascript">
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
+    </a>
+    <a href="#" title="Typescript">
+     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+    </a>
+    <a href="#" title="HTML5">
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    </a>
+    <a href="#" title="Css3">
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css3"/>
+    </a>
+    <a href="#" title="Bootstrap">
+     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    </a>
+    <a href="#" title="VueJs">
+     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJs"/>
+    </a>
+    <a href="#" title="AngularJs">
+     <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJs"/>
+    </a>
+ </div>
+</div>
 
 <br><br>
 <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
