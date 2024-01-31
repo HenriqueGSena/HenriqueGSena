@@ -125,14 +125,3 @@
   </a>
  </div>
 </div>
-
-
-
-
-<div>
-<a href="https://www.instagram.com/Henrique.sena23" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red" />
-</a>
-
-</div>
-
