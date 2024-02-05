@@ -4,7 +4,7 @@
  </div>
 
  <div align="center">
-  <h1>Hi, I'm Henrique Sena</h1>
+  <h1>👋🏼 Hi, I'm Henrique Sena</h1>
  </div>
 
  <div>
