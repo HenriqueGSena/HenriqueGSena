@@ -81,6 +81,9 @@
     <a href="#" title="AngularJs">
      <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit" alt="AngularJs"/>
     </a>
+    <a href="#" title="React">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    </a>
  </div>
 
  <h4 align="center">Ferramentas de Testes</h4>
