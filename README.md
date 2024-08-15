@@ -118,8 +118,10 @@
   <a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=dracula" alt="Henrique Sena most languages" />
   </a>
+  <a>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGSena&layout=compact&theme=dracula" alt="Henrique Sena" />
+  </a>
  </div>
-
  <h2 align="center">📫 &nbsp;Social Links</h2>
  <br>
  <div>
