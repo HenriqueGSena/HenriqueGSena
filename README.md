@@ -22,7 +22,6 @@
  </div>
 
  <h4 align="center">Front-end</h4>
- <br>
   <div align="center">
        <a title="HTML5">
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,7 +53,6 @@
   </div>
 
 <h4 align="center">Back-end</h4>
-<br>
  <div align="center">
       <a title="Mysql">
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -102,7 +100,6 @@
  </div>
 
  <h4 align="center">Tools</h4>
- <br>
  <div align="center">
         <a title="Git">
      <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
@@ -143,7 +140,6 @@
  </div>
 
  <h4 align="center">Cloud</h4>
- <br>
  <div align="center">
       <a title="Docker">
      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -163,7 +159,6 @@
  </div>
 
  <h4 align="center">SO</h4>
- <br>
  <div align="center">
       <a title="Linux">
      <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -176,15 +171,31 @@
  <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
  <br>
  <div align="center">
-  <a href="https://github.com/HenriqueGSena" title="Perfil Sena">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&theme=dracula&show_icons=true" />
-  </a>
-  <a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&layout=compact&theme=dracula" alt="Henrique Sena most languages" />
-  </a>
-  <a>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGSena&layout=compact&theme=dracula" alt="Henrique Sena" />
-  </a>
+  <table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&theme=dracula&show_icons=true" alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGSena&theme=dracula&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
  </div>
  <h2 align="center">📫 &nbsp;Social Links</h2>
  <br>
@@ -199,4 +210,15 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  </div>
+
+ <div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/HenriqueGSena/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
 </div>
