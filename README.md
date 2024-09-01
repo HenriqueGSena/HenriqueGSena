@@ -74,6 +74,9 @@
      <a title="Mongo">
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </a>
+     <a title="Apache">
+     <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"/>
+    </a>
     <a title="Liquibase">
      <img src="https://img.shields.io/badge/Liquibase-D33833?style=for-the-badge&logo=liquibase&logoColor=white"/>
     </a>
@@ -117,15 +120,20 @@
    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
       <a title="Intellij">
-   <img src="https://img.shields.io/badge/Intellij-FFFFFF?style=for-the-badge&logo=jetbrains&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Intellij-FE3F44?style=for-the-badge&logo=jetbrains&logoColor=black"/>
+  </a>
+   <a title="DataGrip">
+   <img src="https://img.shields.io/badge/Datagrip-7E42FF?style=for-the-badge&logo=datagrip&logoColor=white"/>
+  </a>
+   <a title="Rider">
+   <img src="https://img.shields.io/badge/Rider-FE9C0E?style=for-the-badge&logo=rider&logoColor=white"/>
   </a>
   <a title="Vscode">
-   <img src="https://img.shields.io/badge/Vscode-017AD7?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Vscode-017AD7?style=for-the-badge&logo=vscode&logoColor=white"/>
   </a>
   <a title="Vim">
    <img src="https://img.shields.io/badge/Neovim-009639?style=for-the-badge&logo=vim&logoColor=white"/>
   </a>
-  
   <a title="Postman">
    <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=black"/>
   </a>
@@ -134,26 +142,32 @@
  <h4 align="center">Cloud</h4>
  <br>
  <div align="center">
-      <a href="#" title="Kubernetes">
-     <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <a title="Docker">
+     <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
     </a>
-    <a href="#" title="Docker">
-     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <a title="Kubernetes">
+     <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    </a>
+       <a title="Vercel">
+     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+         <a title="Heroku">
+     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    </a>
+     <a title="Azure">
+     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white"/>
     </a>
  </div>
 
-<h4 align="center">Ferramentas de desenvolvimento</h4>
+ <h4 align="center">SO</h4>
  <br>
- <div>
-  <a href="#" title="Intellij">
-   <img src="https://img.shields.io/badge/Intellij-FFFFFF?style=for-the-badge&logo=jetbrains&logoColor=black" alt="Intellij"/>
-  </a>
-  <a href="#" title="Vscode">
-   <img src="https://img.shields.io/badge/Vscode-017AD7?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Vscode"/>
-  </a>
-  <a href="#" title="Vim">
-   <img src="https://img.shields.io/badge/Neovim-009639?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-  </a>
+ <div align="center">
+      <a title="Linux">
+     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+    </a>
+    <a title="Windows">
+     <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+    </a>
  </div>
 
  <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
