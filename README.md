@@ -80,9 +80,6 @@
     <a title="Liquibase">
      <img src="https://img.shields.io/badge/Liquibase-D33833?style=for-the-badge&logo=liquibase&logoColor=white"/>
     </a>
-    <a title="Jhipster">
-     <img src="https://img.shields.io/badge/JHIPSTER-FFFFFF?style=for-the-badge&logo=jhipster&logoColor=blue"/>
-    </a>
      <a title="ActiveMQ">
      <img src="https://img.shields.io/badge/ActiveMQ-EA2046?style=for-the-badge&logo=activemq&logoColor=white"/>
     </a>
@@ -119,8 +116,11 @@
    <a title="GitLab">
    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
+    <a title="Jhipster">
+     <img src="https://img.shields.io/badge/JHIPSTER-FFFFFF?style=for-the-badge&logo=jhipster&logoColor=blue"/>
+    </a>
       <a title="Intellij">
-   <img src="https://img.shields.io/badge/Intellij-FE3F44?style=for-the-badge&logo=jetbrains&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Intellij-FE3F44?style=for-the-badge&logo=intellij-idea&logoColor=black"/>
   </a>
    <a title="DataGrip">
    <img src="https://img.shields.io/badge/Datagrip-7E42FF?style=for-the-badge&logo=datagrip&logoColor=white"/>
@@ -137,6 +137,12 @@
   <a title="Postman">
    <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=black"/>
   </a>
+  <a title="Bash">
+     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    </a>
+    <a title="ZSH">
+     <img src="https://img.shields.io/badge/ZSH-C5D928?style=for-the-badge&logo=zsh&logoColor=white"/>
+    </a>
  </div>
 
  <h4 align="center">Cloud</h4>
@@ -185,12 +191,15 @@
  </div>
  <h2 align="center">📫 &nbsp;Social Links</h2>
  <br>
- <div>
-  <a href="https://www.linkedin.com/in/carloshenrique26" target="_blank" title="Linkdin">
+ <div align="center">
+  <a title="Linkdin" href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/Henrique.sena23" target="_blank" title="Instagram">
+  <a title="Instagram" href="https://www.instagram.com/Henrique.sena23" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=red">
+  </a>
+  <a title="Gmail" href="mailto:carloshenrique3250@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
  </div>
 </div>
