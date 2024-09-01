@@ -1,27 +1,24 @@
 <div>
- <div align="right">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px">
+ <div align="center">
+  <div style="font-size: 0;">
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2poczAyaDhqMnM4emVvaXhheHI0NGl2a21nNXlpMmV0cGk2MHYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1fM765wdnkm4/giphy.gif" 
+   alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px"/>
+  </div>
  </div>
 
  <div align="center">
-  <h1>👋🏼 Hi, I'm Henrique Sena</h1>
+  <h1>🥷🏾 Hi There</h1>
  </div>
 
- <div>
+ <div align="center">
   <br>
   <p>
-   - 🔥 Full-Stack developer focused on problem solving
-  </p>
-  <p>
-   - 🎓 Studying software engineering at Puc Minas
-  </p>
-  <p>
-   - 💬 Ask me about **Java, Spring Boot, Oracle...**
+   My name is Henrique, I'm a Full-Stack developer with a backend focus, with a degree in Information Systems and currently studying for a post-graduate degree in Software Engineering at PUC Minas. With experience in developing and delivering solutions that add real value to businesses, I offer web application development services with a focus on efficiency, usability and robust integrations.
   </p>
  </div>
 
  <div>
-  <h2 align="center">🛠 &nbsp;Skills</h2>
+  <h2 align="center">🛠 &nbsp;Technologies and languages</h2>
  </div>
 
  <h4 align="center">Front-end</h4>
