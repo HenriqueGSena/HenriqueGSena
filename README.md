@@ -1,13 +1,13 @@
 <div>
  <div align="center">
   <div style="font-size: 0;">
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2poczAyaDhqMnM4emVvaXhheHI0NGl2a21nNXlpMmV0cGk2MHYybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D1fM765wdnkm4/giphy.gif" 
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW51dXZqaWsyeTFlejh1Z2Y2amZhaGZwMHFxbGM4cmp3aXJ2aHRzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif" 
    alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px"/>
   </div>
  </div>
 
  <div align="center">
-  <h1>🥷🏾 Hi There</h1>
+  <h1>Hi There</h1>
  </div>
 
  <div align="center">
