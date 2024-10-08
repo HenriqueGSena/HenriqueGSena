@@ -35,9 +35,6 @@
     <a title="Typescript">
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     </a>
-       <a title="NodeJs">
-     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    </a>
        <a title="VueJs">
      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
     </a>
@@ -63,12 +60,6 @@
     <a title="Oracle">
      <img src="https://img.shields.io/badge/Oracle-E6522C?style=for-the-badge&logo=oracle&logoColor=white"/>
     </a>
-     <a title="SqlServer">
-     <img src="https://img.shields.io/badge/SQLserver-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    </a>
-     <a title="Mongo">
-     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </a>
      <a title="Apache">
      <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"/>
     </a>
@@ -87,15 +78,8 @@
      <a title="Groovy">
      <img src="https://img.shields.io/badge/Groovy-666666?style=for-the-badge&logo=groovy&logoColor=white"/>
     </a>
-       <a title="Net">
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    </a>
-      </a>
-       <a title="AspNetCore">
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-    </a>
-     <a title="C#">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <a title="NodeJs">
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </a>
  </div>
 
@@ -118,9 +102,6 @@
   </a>
    <a title="DataGrip">
    <img src="https://img.shields.io/badge/Datagrip-7E42FF?style=for-the-badge&logo=datagrip&logoColor=white"/>
-  </a>
-   <a title="Rider">
-   <img src="https://img.shields.io/badge/Rider-FE9C0E?style=for-the-badge&logo=rider&logoColor=white"/>
   </a>
   <a title="Vscode">
    <img src="https://img.shields.io/badge/Vscode-017AD7?style=for-the-badge&logo=vscode&logoColor=white"/>
