@@ -69,6 +69,9 @@
      <a title="ActiveMQ">
      <img src="https://img.shields.io/badge/ActiveMQ-EA2046?style=for-the-badge&logo=activemq&logoColor=white"/>
     </a>
+     <a title="Thymeleaf">
+     <img src="https://img.shields.io/badge/Thymeleaf-217346?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+    </a>
      <a title="Hibernate">
       <img src="https://img.shields.io/badge/Hibernate-beb17d?style=for-the-badge&logo=hibernate&logoColor=white"/>
     </a>
