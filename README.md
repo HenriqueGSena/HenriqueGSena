@@ -69,6 +69,9 @@
      <a title="ActiveMQ">
      <img src="https://img.shields.io/badge/ActiveMQ-EA2046?style=for-the-badge&logo=activemq&logoColor=white"/>
     </a>
+     <a title="Hibernate">
+      <img src="https://img.shields.io/badge/Hibernate-beb17d?style=for-the-badge&logo=hibernate&logoColor=white"/>
+    </a>
     <a title="Spring">
       <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white"/>
     </a>
@@ -80,6 +83,9 @@
     </a>
     <a title="NodeJs">
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    </a>
+    <a title="Prisma">
+     <img src="https://img.shields.io/badge/Prisma-090A15?style=for-the-badge&logo=prisma&logoColor=white"/>
     </a>
  </div>
 
@@ -136,6 +142,9 @@
     </a>
      <a title="Azure">
      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white"/>
+    </a>
+    <a title="DigitalOcean">
+     <img src="https://img.shields.io/badge/Digital Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
     </a>
  </div>
 
