@@ -161,37 +161,35 @@
     </a>
  </div>
 
- <h2 align="center">⚙️ &nbsp;GitHub Analytics</h2>
- <br>
+ <h2 align="center">⚙️ &nbsp;Analytics</h2>
  <div align="center">
   <table>
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=HenriqueGSena&theme=dracula&show_icons=true" alt="Github Stats"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HenriqueGSena&theme=dracula&utcOffset=3"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGSena&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGSena&theme=dracula&hide_border=false"
-        alt="Github Stats"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueGSena&theme=dracula"
       />
     </td>
   </tr>
 </table>
+
+ <div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=HenriqueGSena&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</p>
+  
  </div>
  <h2 align="center">📫 &nbsp;Social Links</h2>
- <br>
  <div align="center">
   <a title="Linkdin" href="https://www.linkedin.com/in/carloshenrique26" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -204,14 +202,4 @@
   </a>
  </div>
 
- <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/HenriqueGSena/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 </div>
