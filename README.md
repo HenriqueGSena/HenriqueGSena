@@ -129,7 +129,7 @@
     </a>
  </div>
 
- <h4 align="center">Cloud</h4>
+ <h4 align="center">Infrastructure</h4>
  <div align="center">
       <a title="Docker">
      <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
