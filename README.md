@@ -87,6 +87,9 @@
     <a title="NodeJs">
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </a>
+      <a title="NestJs">
+     <img src="https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    </a>
     <a title="Prisma">
      <img src="https://img.shields.io/badge/Prisma-090A15?style=for-the-badge&logo=prisma&logoColor=white"/>
     </a>
