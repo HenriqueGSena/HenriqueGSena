@@ -41,6 +41,9 @@
     <a title="AngularJs">
      <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=whit"/>
     </a>
+    <a title="NextJs">
+     <img src="https://img.shields.io/badge/Next.js-090A15?style=for-the-badge&logo=next.js&logoColor=4FC08D"/>
+    </a>
        <a title="Bootstrap">
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
