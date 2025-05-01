@@ -44,7 +44,10 @@
     <a title="NextJs">
      <img src="https://img.shields.io/badge/Next.js-090A15?style=for-the-badge&logo=next.js&logoColor=4FC08D"/>
     </a>
-       <a title="Bootstrap">
+    <a title="ReactJs">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    </a>
+    <a title="Bootstrap">
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
      <a title="Tailwind">
