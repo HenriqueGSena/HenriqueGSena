@@ -188,14 +188,6 @@
     </td>
   </tr>
 </table>
-
- <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=HenriqueGSena&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</p>
   
  </div>
  <h2 align="center">📫 &nbsp;Social Links</h2>
