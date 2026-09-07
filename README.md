@@ -152,11 +152,11 @@
          <a title="Heroku">
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     </a>
-     <a title="Azure">
-     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white"/>
-    </a>
     <a title="DigitalOcean">
      <img src="https://img.shields.io/badge/Digital Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+    </a>
+     <a title="Aws">
+     <img src="https://img.shields.io/badge/Aws-FFAD19?style=for-the-badge&logo=aws&logoColor=black"/>
     </a>
  </div>
 
